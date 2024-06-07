@@ -41,6 +41,9 @@ Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Abra u
 
 - [GitHub - davidcordeiro15/GS--Edge-Computing](https://github.com/davidcordeiro15/GS---Edge-Computing)
 
+### Link do Projeto no Tinkercad
+- https://www.tinkercad.com/things/crUTbTKxYZo-gs-edge
+
 
 ### Membros do Grupo
 
